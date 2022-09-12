@@ -1,2 +1,1 @@
-# CustomerProject
-![Code Coverage](https://img.shields.io/badge/Code%20Coverage-100%25-success?style=flat)
+[![codecov](https://codecov.io/gh/Stormhead77/CustomerProject/branch/master/graph/badge.svg?token=IBMNCPYEPI)](https://codecov.io/gh/Stormhead77/CustomerProject)
